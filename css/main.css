@@ -6103,7 +6103,7 @@ p:not(:last-of-type) {
   }
 }
 .header__img {
-  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0);
   height: 7.5rem;
   width: 7.5rem;
   border-radius: 50%;
